@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rumen/cources/course-works/machine-learning/model_selection/mlruns/837035732856099966/186d9b44b58348d9a8bdc2071cc7ce76/artifacts
+end_time: 1701384483191
+entry_point_name: ''
+experiment_id: '837035732856099966'
+lifecycle_stage: active
+run_id: 186d9b44b58348d9a8bdc2071cc7ce76
+run_name: worried-pig-51
+run_uuid: 186d9b44b58348d9a8bdc2071cc7ce76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701383658324
+status: 3
+tags: []
+user_id: rumen

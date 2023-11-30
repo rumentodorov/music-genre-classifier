@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rumen/cources/course-works/machine-learning/model_selection/mlruns/635373587555236706/674ee4e9ed5c4729b3f62b040c5eb628/artifacts
+end_time: 1701383658194
+entry_point_name: ''
+experiment_id: '635373587555236706'
+lifecycle_stage: active
+run_id: 674ee4e9ed5c4729b3f62b040c5eb628
+run_name: charming-roo-733
+run_uuid: 674ee4e9ed5c4729b3f62b040c5eb628
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701382950368
+status: 3
+tags: []
+user_id: rumen

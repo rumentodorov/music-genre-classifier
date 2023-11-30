@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rumen/cources/course-works/machine-learning/model_selection/mlruns/300389762073287910/4b9e9298e1884722b150102a308358d4/artifacts
+end_time: 1701386180998
+entry_point_name: ''
+experiment_id: '300389762073287910'
+lifecycle_stage: active
+run_id: 4b9e9298e1884722b150102a308358d4
+run_name: salty-dog-414
+run_uuid: 4b9e9298e1884722b150102a308358d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701385985056
+status: 3
+tags: []
+user_id: rumen

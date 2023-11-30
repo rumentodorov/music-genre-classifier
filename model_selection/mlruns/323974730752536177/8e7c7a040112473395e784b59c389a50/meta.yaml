@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rumen/cources/course-works/machine-learning/model_selection/mlruns/323974730752536177/8e7c7a040112473395e784b59c389a50/artifacts
+end_time: 1701385865241
+entry_point_name: ''
+experiment_id: '323974730752536177'
+lifecycle_stage: active
+run_id: 8e7c7a040112473395e784b59c389a50
+run_name: nosy-ox-873
+run_uuid: 8e7c7a040112473395e784b59c389a50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701385773438
+status: 3
+tags: []
+user_id: rumen

@@ -1,0 +1,6 @@
+artifact_location: file:///home/rumen/cources/course-works/machine-learning/model_selection/mlruns/389712956249204077
+creation_time: 1701385697737
+experiment_id: '389712956249204077'
+last_update_time: 1701385697737
+lifecycle_stage: active
+name: Random Forest, min sample leaf - 30 sec

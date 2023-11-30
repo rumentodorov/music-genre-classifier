@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rumen/cources/course-works/machine-learning/model_selection/mlruns/561387896214378658/39a48c4c9f2e41a692237e0e04cb4441/artifacts
+end_time: 1701386743718
+entry_point_name: ''
+experiment_id: '561387896214378658'
+lifecycle_stage: active
+run_id: 39a48c4c9f2e41a692237e0e04cb4441
+run_name: adaptable-worm-94
+run_uuid: 39a48c4c9f2e41a692237e0e04cb4441
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701386738271
+status: 3
+tags: []
+user_id: rumen

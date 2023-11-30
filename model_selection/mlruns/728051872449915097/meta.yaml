@@ -1,0 +1,6 @@
+artifact_location: file:///home/rumen/cources/course-works/machine-learning/model_selection/mlruns/728051872449915097
+creation_time: 1701386954905
+experiment_id: '728051872449915097'
+last_update_time: 1701386954905
+lifecycle_stage: active
+name: SVC with linear kernel, 3 sec

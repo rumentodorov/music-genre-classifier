@@ -1,0 +1,6 @@
+artifact_location: file:///home/rumen/cources/course-works/machine-learning/model_selection/mlruns/850617054453368761
+creation_time: 1701385415800
+experiment_id: '850617054453368761'
+last_update_time: 1701385415800
+lifecycle_stage: active
+name: Logistic Regression - L2, 30 sec

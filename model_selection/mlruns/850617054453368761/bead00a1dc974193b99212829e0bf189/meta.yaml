@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rumen/cources/course-works/machine-learning/model_selection/mlruns/850617054453368761/bead00a1dc974193b99212829e0bf189/artifacts
+end_time: 1701385463045
+entry_point_name: ''
+experiment_id: '850617054453368761'
+lifecycle_stage: active
+run_id: bead00a1dc974193b99212829e0bf189
+run_name: inquisitive-mule-785
+run_uuid: bead00a1dc974193b99212829e0bf189
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701385415996
+status: 3
+tags: []
+user_id: rumen

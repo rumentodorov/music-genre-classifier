@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rumen/cources/course-works/machine-learning/model_selection/mlruns/195957088751191891/ef0391fcb72c4c62822eaff40c51929b/artifacts
+end_time: 1701386863892
+entry_point_name: ''
+experiment_id: '195957088751191891'
+lifecycle_stage: active
+run_id: ef0391fcb72c4c62822eaff40c51929b
+run_name: shivering-auk-845
+run_uuid: ef0391fcb72c4c62822eaff40c51929b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701386841467
+status: 3
+tags: []
+user_id: rumen

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rumen/cources/course-works/machine-learning/model_selection/mlruns/301621508077687931/f5fa1580321b4367ac2ff0bd900a78ca/artifacts
+end_time: 1701387263814
+entry_point_name: ''
+experiment_id: '301621508077687931'
+lifecycle_stage: active
+run_id: f5fa1580321b4367ac2ff0bd900a78ca
+run_name: silent-jay-423
+run_uuid: f5fa1580321b4367ac2ff0bd900a78ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701387127573
+status: 3
+tags: []
+user_id: rumen

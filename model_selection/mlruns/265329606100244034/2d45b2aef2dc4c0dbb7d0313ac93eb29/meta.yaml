@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rumen/cources/course-works/machine-learning/model_selection/mlruns/265329606100244034/2d45b2aef2dc4c0dbb7d0313ac93eb29/artifacts
+end_time: 1701384953511
+entry_point_name: ''
+experiment_id: '265329606100244034'
+lifecycle_stage: active
+run_id: 2d45b2aef2dc4c0dbb7d0313ac93eb29
+run_name: rare-fish-942
+run_uuid: 2d45b2aef2dc4c0dbb7d0313ac93eb29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701384675088
+status: 3
+tags: []
+user_id: rumen

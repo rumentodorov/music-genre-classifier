@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rumen/cources/course-works/machine-learning/model_selection/mlruns/569947958504921144/cfe8d3e7eb574ab79426161621eb5ccc/artifacts
+end_time: 1701387127443
+entry_point_name: ''
+experiment_id: '569947958504921144'
+lifecycle_stage: active
+run_id: cfe8d3e7eb574ab79426161621eb5ccc
+run_name: gregarious-boar-898
+run_uuid: cfe8d3e7eb574ab79426161621eb5ccc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701387042033
+status: 3
+tags: []
+user_id: rumen

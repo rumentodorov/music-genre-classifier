@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rumen/cources/course-works/machine-learning/model_selection/mlruns/357814476696192296/7158b1a726244b1db32209bd4b3e8e66/artifacts
+end_time: 1701385949621
+entry_point_name: ''
+experiment_id: '357814476696192296'
+lifecycle_stage: active
+run_id: 7158b1a726244b1db32209bd4b3e8e66
+run_name: crawling-hog-596
+run_uuid: 7158b1a726244b1db32209bd4b3e8e66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701385866053
+status: 3
+tags: []
+user_id: rumen

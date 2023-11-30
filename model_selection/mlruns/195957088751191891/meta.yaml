@@ -1,0 +1,6 @@
+artifact_location: file:///home/rumen/cources/course-works/machine-learning/model_selection/mlruns/195957088751191891
+creation_time: 1701386841173
+experiment_id: '195957088751191891'
+last_update_time: 1701386841173
+lifecycle_stage: active
+name: SVC with polynomial kernel,6 sec

@@ -1,0 +1,6 @@
+artifact_location: file:///home/rumen/cources/course-works/machine-learning/model_selection/mlruns/689531519955459016
+creation_time: 1701385675953
+experiment_id: '689531519955459016'
+last_update_time: 1701385675953
+lifecycle_stage: active
+name: Random Forest, min sample split - 30 sec

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rumen/cources/course-works/machine-learning/model_selection/mlruns/728051872449915097/e0b1ec7a737c4f739c926ef6bc9eeb00/artifacts
+end_time: 1701387041907
+entry_point_name: ''
+experiment_id: '728051872449915097'
+lifecycle_stage: active
+run_id: e0b1ec7a737c4f739c926ef6bc9eeb00
+run_name: aged-bird-92
+run_uuid: e0b1ec7a737c4f739c926ef6bc9eeb00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701386955040
+status: 3
+tags: []
+user_id: rumen

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rumen/cources/course-works/machine-learning/model_selection/mlruns/372555820651976321/1eecde1796a245c4b65006527630395c/artifacts
+end_time: 1701386366340
+entry_point_name: ''
+experiment_id: '372555820651976321'
+lifecycle_stage: active
+run_id: 1eecde1796a245c4b65006527630395c
+run_name: hilarious-fowl-446
+run_uuid: 1eecde1796a245c4b65006527630395c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701386181726
+status: 3
+tags: []
+user_id: rumen

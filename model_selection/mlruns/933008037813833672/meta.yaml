@@ -1,0 +1,6 @@
+artifact_location: file:///home/rumen/cources/course-works/machine-learning/model_selection/mlruns/933008037813833672
+creation_time: 1701386863907
+experiment_id: '933008037813833672'
+last_update_time: 1701386863907
+lifecycle_stage: active
+name: SVC with rbf kernel, 6 sec

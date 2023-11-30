@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rumen/cources/course-works/machine-learning/model_selection/mlruns/355382217151008943/297cded8b76b4597984bb151396ada24/artifacts
+end_time: 1701385541683
+entry_point_name: ''
+experiment_id: '355382217151008943'
+lifecycle_stage: active
+run_id: 297cded8b76b4597984bb151396ada24
+run_name: loud-ray-23
+run_uuid: 297cded8b76b4597984bb151396ada24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701385463702
+status: 3
+tags: []
+user_id: rumen
